@@ -1,0 +1,31 @@
+.divA {
+    float:left;
+    color: beige;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+.divB {
+    float:left;
+    color: beige;
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+}
+
+.divC {
+    float:left;
+    color: beige;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.divD {
+    float:left;
+    color: beige;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(136, 16, 136);
+}
